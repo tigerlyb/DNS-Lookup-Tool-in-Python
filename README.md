@@ -1,7 +1,5 @@
-dnslookup
-=========
-
-Course Project
+DNS Lookup Tool
+===============
 
 The basic process of this program is the following:
 
